@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    //modif 1
+    //modif 2
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -27,16 +27,5 @@ class ViewController: UIViewController {
 
 import UIKit
 
-for var i = 0; i <= 100; i++ {
-    if i < 40 && i > 30 {
-        print("\(i)\t\("Viva Swift")")
-    }else if i % 5 == 0 {
-        print("\(i)\t\("Bingo")")
-    }else if i % 2 != 0 {
-        print("\(i)\t\("Impar")")
-    }else if i % 2 == 0 {
-        print("\(i)\t\("Par")")
-    }
-}
 
 
