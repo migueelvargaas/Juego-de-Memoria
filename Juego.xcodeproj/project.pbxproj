@@ -47,6 +47,7 @@
 		D40756861C669A3B009181C9 /* JuegoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JuegoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D407568A1C669A3B009181C9 /* JuegoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoUITests.swift; sourceTree = "<group>"; };
 		D407568C1C669A3B009181C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D40756981C66A091009181C9 /* Mini reto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Mini reto.playground"; path = "../../Mini reto.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 			children = (
 				D407566A1C669A3B009181C9 /* AppDelegate.swift */,
 				D407566C1C669A3B009181C9 /* ViewController.swift */,
+				D40756981C66A091009181C9 /* Mini reto.playground */,
 				D407566E1C669A3B009181C9 /* Main.storyboard */,
 				D40756711C669A3B009181C9 /* Assets.xcassets */,
 				D40756731C669A3B009181C9 /* LaunchScreen.storyboard */,
