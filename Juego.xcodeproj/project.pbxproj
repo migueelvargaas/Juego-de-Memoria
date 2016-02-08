@@ -48,6 +48,7 @@
 		D407568A1C669A3B009181C9 /* JuegoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoUITests.swift; sourceTree = "<group>"; };
 		D407568C1C669A3B009181C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D40756981C66A091009181C9 /* Mini reto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Mini reto.playground"; path = "../../Mini reto.playground"; sourceTree = "<group>"; };
+		D40756991C682429009181C9 /* Mini reto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Mini reto.playground"; path = "Juego/Mini reto.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 		D407565E1C669A3B009181C9 = {
 			isa = PBXGroup;
 			children = (
+				D40756991C682429009181C9 /* Mini reto.playground */,
 				D40756691C669A3B009181C9 /* Juego */,
 				D407567E1C669A3B009181C9 /* JuegoTests */,
 				D40756891C669A3B009181C9 /* JuegoUITests */,
